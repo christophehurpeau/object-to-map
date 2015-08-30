@@ -1,6 +1,6 @@
 {
   "name": "object2map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform an Object to a Map",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/christophehurpeau/object2map.git"
   },
   "keywords": [
-    "JSON.parse",
+    "object",
     "map"
   ],
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
