@@ -1,0 +1,27 @@
+{
+  "name": "object2map",
+  "version": "1.0.0",
+  "description": "Transform an Object to a Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony --es_staging --recursive --bail -u tdd tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophehurpeau/object2map.git"
+  },
+  "keywords": [
+    "JSON.parse",
+    "map"
+  ],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/object2map/issues"
+  },
+  "homepage": "https://github.com/christophehurpeau/object2map#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "proclaim": "^3.3.1"
+  }
+}
