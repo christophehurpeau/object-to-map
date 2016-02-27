@@ -1,6 +1,6 @@
 {
   "name": "object2map",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Transform an Object to a Map",
   "main": "index.js",
   "scripts": {
