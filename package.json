@@ -4,7 +4,7 @@
   "description": "Transform an Object to a Map",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --harmony --es_staging --recursive --bail -u tdd tests"
+    "test": "mocha --harmony --es_staging --recursive --bail -u tdd test"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/christophehurpeau/object2map#readme",
   "devDependencies": {
+    "coveralls": "^2.11.8",
+    "istanbul": "^0.4.2",
     "mocha": "^2.2.5",
-    "proclaim": "^3.3.1"
+    "xunit-file": "0.0.9"
   }
 }
